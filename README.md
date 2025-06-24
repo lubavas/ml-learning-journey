@@ -5,3 +5,6 @@ The repository contains 3 ML topics:
 - Tree-Based Methods
 - Support Vector Machines
 - Deep Learning
+
+To-do:
+- Finish tree-based exercises
