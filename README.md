@@ -7,4 +7,5 @@ The repository contains 3 ML topics:
 - Deep Learning
 
 To-do:
-- Finish tree-based exercises
+- Push tree-based exercises
+- Finish deep learining exercises
